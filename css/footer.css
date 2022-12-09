@@ -66,6 +66,7 @@ footer > p{
         border-radius: 80px 80px 0px 0px;
         padding-left: 10px;
         padding-right: 10px;
+        height: fit-content;
     }
     footer > p{
         padding-left: 10px;
